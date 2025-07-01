@@ -7,4 +7,4 @@ This project demonstrates a dynamic Excel dashboard that fetches real-time data 
 - Pivot tables, slicers, KPIs
 - Real-time dashboard for sales and revenue
 
-![Dashboard View](screenshots/dashboard_view.png)
+![Dashboard View](Screenshot 2025-07-01 221215.png)
