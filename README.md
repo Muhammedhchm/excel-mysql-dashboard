@@ -7,4 +7,4 @@ This project demonstrates a dynamic Excel dashboard that fetches real-time data 
 - Pivot tables, slicers, KPIs
 - Real-time dashboard for sales and revenue
 
-![Dashboard View] https://github.com/Muhammedhchm/excel-mysql-dashboard/blob/main/Screenshot%202025-07-01%20221215.png
+![Dashboard View] ![Uploading Screenshot 2025-07-01 221215.png…]()
